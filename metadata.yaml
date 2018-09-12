@@ -1,0 +1,34 @@
+_repo: Avec-les-Poilus-Maman-la-Soupe-et-son-chat-Ratu_51149
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Raynolt
+    gutenberg_agent_id: '46263'
+    url: http://www.gutenberg.org/2009/agents/46263
+creator:
+  author:
+    agent_name: Mültzer, Marcel
+    alias: Multzer, Marcel
+    gutenberg_agent_id: '46262'
+    url: http://www.gutenberg.org/2009/agents/46262
+description: ''
+gutenberg_bookshelf:
+- FR Illustrateurs
+- FR La Première Guerre Mondiale, 1914-1918
+- FR Jeunesse
+gutenberg_issued: '2016-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51149'
+  lccn: '18020335'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Juvenile fiction'
+- !lcsh 'Cats -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'Avec les Poilus: Maman la Soupe et son chat Ratu'
+url: http://www.gutenberg.org/ebooks/51149
