@@ -1,10 +1,13 @@
 _repo: Avec-les-Poilus-Maman-la-Soupe-et-son-chat-Ratu_51149
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Raynolt
     gutenberg_agent_id: '46263'
     url: http://www.gutenberg.org/2009/agents/46263
+covers:
+- cover_type: archival
+  image_path: 51149-h/images/cover.jpg
 creator:
   author:
     agent_name: Mültzer, Marcel
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '46262'
     url: http://www.gutenberg.org/2009/agents/46262
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51149#Avec-les-Poilus-Maman-la-Soupe-et-son-chat-Ratu
 gutenberg_bookshelf:
 - FR Illustrateurs
 - FR La Première Guerre Mondiale, 1914-1918
